@@ -1,4 +1,5 @@
 # 如何撰写一篇SCI论文
+如果找不到方向，那就从别人的Future Work出发
 ## 参考资料
 + 《SCI论文写作和发表：You Can Do It》   
 + [邱锡鹏老师-如何端到端地写科研论文？](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)   
