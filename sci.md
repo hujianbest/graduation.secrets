@@ -30,18 +30,18 @@
 别用IE了，也 ball ball you 别用什么360了，Microsoft Edge 都转chromium 了    
 为什么非要用Chrome？    
 最大的原因当然在于   
-
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/translate.png)   
-
+<br/>
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/translate.png)     
+<br/>
 如果大大您不需要翻译，那么请看下面   
 
 + [Google Scholar](https://scholar.google.com/)   
 就算你没用过，你也应该，从知乎从小木虫听到过。   
 为什么要用Google Scholar？   
 我也不知道为什么，看一个检索的例子吧，搜索速度挺快   
-
+<br/>
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)  
-
+<br/>
 + 其他常用的论文数据库
   + [学校购买的数据库列表](http://lib.whut.edu.cn/node/358.jspx)
   + [Elsevier SD 数据库](https://www.sciencedirect.com/)   
@@ -51,18 +51,18 @@
 
 + [Kopernio插件](https://kopernio.com/)   
 在Chrome里安装这个插件之后就可以在论文检索结果页面上一键将该论文添加到自己的Kopernio Locker里面了，当然你具有哪些论文全文的授权就看你的学校了，Kopernio会自动帮你查询能否获取该论文的PDF全文，在Google Scholar页面就会多上这么一个小按钮   
-
+<br/>
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/ko.png)   
-
+<br/>
 点击这个按钮就可以添加该文章到自己的Kopernio Locker   
-
+<br/>
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/locker.png)   
-
+<br/>
 点击Export Reference便可同时下载PDF和RIS格式的文件用于EndNote、Zotero等软件
 
 + [EndNote](https://endnote.com/)
 一个参考文献管理工具，可以和Word完美配合进行参考文献的引用，可以输出各种各样的引用格式，效果如图   
-
+<br/>
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/endnote.png)   
-
+<br/>
 这软件吧，收费的，但是有批量授权版的，懂的懂   
