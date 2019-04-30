@@ -30,9 +30,9 @@
 别用IE了，也 ball ball you 别用什么360了，Microsoft Edge 都转chromium 了    
 为什么非要用Chrome？    
 最大的原因当然在于   
-<br/>
+<br/>   
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/translate.png)     
-<br/>
+<br/>   
 如果大大您不需要翻译，那么请看下面   
 
 + [Google Scholar](https://scholar.google.com/)   
