@@ -26,8 +26,12 @@
 ## 高效的工具
 ### 文献管理
 写作过程中不免要阅读大量的文献，尤其是英文的。对于阅读过的文章，有些选手选择在浏览器里添加书签，有些会下载下来在本地建文件夹分门别类的保存。这样的做法固然可取，但是当你在写作过程中需要去引用这些文章，并按杂志的要求调整参考文献格式的时候就觉得痛苦了，下面分享的这个组合能为你节省大量的时间。
-+ Google Chrome   
++ [Google Chrome](https://www.google.cn/chrome/)         
 别用IE了，也 ball ball you 别用什么360了，Microsoft Edge 都转chromium 了    
 为什么非要用Chrome？    
 最大的原因当然在于   
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/translate.png)
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/translate.png)   
+如果大大您不需要翻译，那么请看下面   
++ [Google Scholar](https://scholar.google.com/)   
+就算你没用过，你也应该，从知乎从小木虫听到过。   
+为什么要用Google Scholar？   
