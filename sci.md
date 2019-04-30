@@ -45,6 +45,12 @@
   + [SCIE](http://www.webofknowledge.com)
 
 
-+ [Kopernio插件](https://kopernio.com/)
++ [Kopernio插件](https://kopernio.com/)   
 在Chrome里安装这个插件之后就可以在论文检索结果页面上一键将该论文添加到自己的Kopernio Locker里面了，当然你具有哪些论文全文的授权就看你的学校了，Kopernio会自动帮你查询能否获取该论文的PDF全文，在Google Scholar页面就会多上这么一个小按钮   
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/ko.png)
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/ko.png)   
+点击这个按钮就可以添加该文章到自己的Kopernio Locker   
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/locker.png)   
+点击Export Reference便可同时下载PDF和RIS格式的文件用于EndNote、Zotero等软件
+
++ [EndNote](https://endnote.com/)
+一个参考文献管理工具，可以和Word完美配合进行参考文献的引用，可以输出各种各样的引用格式，效果如图   
