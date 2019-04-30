@@ -40,7 +40,7 @@
 为什么要用Google Scholar？   
 我也不知道为什么，看一个检索的例子吧，搜索速度挺快   
 
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)     
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)  
 
 + 其他常用的论文数据库
   + [学校购买的数据库列表](http://lib.whut.edu.cn/node/358.jspx)
