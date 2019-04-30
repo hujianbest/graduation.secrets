@@ -36,9 +36,7 @@
 就算你没用过，你也应该，从知乎从小木虫听到过。   
 为什么要用Google Scholar？   
 我也不知道为什么，看一个检索的例子吧，搜索速度挺快   
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)   
-快速导出引用
-![](https://github.com/hujianbest/graduation.secrets/blob/master/image/cite.png)   
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)     
 其他常用的论文数据库：  
   + [学校购买的数据库列表](http://lib.whut.edu.cn/node/358.jspx)
   + [Elsevier SD 数据库](https://www.sciencedirect.com/)   
