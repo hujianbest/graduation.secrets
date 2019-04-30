@@ -57,4 +57,21 @@
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/endnote.png)   
 这软件吧，收费的，但是有批量授权版的，懂的懂   
 
-### Cover Letter
+### 论文绘图：Visio + Origin + Sigmaplot
+流程图、框图：Visio   
+柱状图、折线图：Origin(强大一点) or Sigmaplot(好看一点)
++ Visio如何导出eps格式矢量图  
+先另存为为PDF格式，然后用Adobe Acrobat Pro打开PDF文件，裁剪到无边框之后另存为内嵌eps格式。
+
+### Latex排版
+
+
+## Cover Letter
+[How to Write Cover Letter](https://www.editage.com/insights/writing-an-effective-cover-letter-for-journal-submission)   
+[Springer Cover Letters 要求](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574)   
+[模板]()   
+Cover Letter 的一般内容如下:
++ 第一段：包含文章标题，要投稿的期刊
++ 第二段：精简的描述做了什么工作，得到什么结果，意义在哪里
++ 第三段：你的文章为什么符合期刊的发表要求，读者凭什么为你的文章买单
++ 最后一段：套话，文章没发表过，作者都同意等等
