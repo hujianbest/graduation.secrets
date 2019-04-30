@@ -35,3 +35,12 @@
 + [Google Scholar](https://scholar.google.com/)   
 就算你没用过，你也应该，从知乎从小木虫听到过。   
 为什么要用Google Scholar？   
+我也不知道为什么，看一个检索的例子吧，搜索速度挺快   
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/scholar1.png)
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/cite.png)
+其他常用的论文数据库：  
+  + [学校购买的数据库列表](http://lib.whut.edu.cn/node/358.jspx)
+  + [Elsevier SD 数据库](https://www.sciencedirect.com/)   
+  + [EI－工程索引网络版](https://www.engineeringvillage.com/search/quick.url)   
+  + [IEEE/IET Electronic Library](https://ieeexplore.ieee.org/Xplore/home.jsp)   
+  + [SCIE](http://www.webofknowledge.com)
