@@ -52,7 +52,9 @@
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/locker.png)   
 点击Export Reference便可同时下载PDF和RIS格式的文件用于EndNote、Zotero等软件
 
-+ [EndNote](https://endnote.com/)
++ [EndNote](https://endnote.com/)     
 一个参考文献管理工具，可以和Word完美配合进行参考文献的引用，可以输出各种各样的引用格式，效果如图   
 ![](https://github.com/hujianbest/graduation.secrets/blob/master/image/endnote.png)   
 这软件吧，收费的，但是有批量授权版的，懂的懂   
+
+### Cover Letter
