@@ -69,7 +69,7 @@
 ## Cover Letter
 [How to Write Cover Letter](https://www.editage.com/insights/writing-an-effective-cover-letter-for-journal-submission)   
 [Springer Cover Letters 要求](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574)   
-[模板]()   
+[模板](https://github.com/hujianbest/graduation.secrets/tree/master/resources)   
 Cover Letter 的一般内容如下:
 + 第一段：包含文章标题，要投稿的期刊
 + 第二段：精简的描述做了什么工作，得到什么结果，意义在哪里
