@@ -59,8 +59,11 @@
 这软件吧，收费的，但是有批量授权版的，懂的懂   
 
 ### 论文绘图：Visio + Origin + Sigmaplot
-流程图、框图：Visio   
+流程图、框图：Visio(我校提供正版[下载](http://ms.whut.edu.cn/download.html)   
 柱状图、折线图：Origin(强大一点) or Sigmaplot(好看一点)
++ 教程  
+[地址](https://pan.baidu.com/s/10FbL0sAZL-vOubFTQcKzuw)    
+提取码：c1f9
 + Visio如何导出eps格式矢量图  
 先另存为为PDF格式，然后用Adobe Acrobat Pro打开PDF文件，裁剪到无边框之后另存为内嵌eps格式。
 
