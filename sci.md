@@ -66,6 +66,10 @@
 
 ### Latex排版
 
+### 获取投稿经验
++ [Medci](https://www.medsci.cn/sci/)
++ [小木虫](http://muchong.com/bbs/journal.php)
+
 
 ## Cover Letter
 [How to Write Cover Letter](https://www.editage.com/insights/writing-an-effective-cover-letter-for-journal-submission)   
