@@ -10,9 +10,9 @@
 + 《疯狂Java》
 + 《Python编程从入门到实践》
 
-因为老师的要求，还做了一个手机控制全彩灯的小玩具，用的Arduino开发板+ESP8266WIFI模块，我还保留了它的[核心代码](https://github.com/hujianbest/graduation.secrets/blob/master/code/imcup.ino)和[说明书](https://github.com/hujianbest/graduation.secrets/blob/master/resources/lamp.pdf)，以及[演示视频](https://github.com/hujianbest/graduation.secrets/blob/master/video/lamp.mp4)   
-还有一个未完成的[pygame飞机大战的代码](https://github.com/hujianbest/hello-world/tree/master/py/alien_invasion)    
-一些[Java练习遗留下来的代码](https://github.com/hujianbest/hello-world/tree/master/java_hello)
+因为老师的要求，还做了一个手机控制全彩灯的小玩具，用的Arduino开发板+ESP8266WIFI模块，我还保留了它的[核心代码](https://github.com/hujianbest/graduation.secrets/blob/master/code/imcup.ino)和[说明书](https://github.com/hujianbest/graduation.secrets/blob/master/resources/lamp.pdf)，以及[演示视频](https://github.com/hujianbest/graduation.secrets/blob/master/video/lamp.mp4)。   
+还有一个未完成的[pygame飞机大战的代码](https://github.com/hujianbest/hello-world/tree/master/py/alien_invasion)。    
+一些[Java练习遗留下来的代码](https://github.com/hujianbest/hello-world/tree/master/java_hello)。
 
 ## 第二学期
 这一学期除了要应付老师的项目外，基本在集中学习软件开发的一些基本知识，为即将到来的秋招做准备。   
