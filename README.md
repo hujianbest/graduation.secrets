@@ -9,3 +9,4 @@
 ### 关于奖学金
 ### 关于竞赛
 ### 关于求职
+### [我的两年](https://github.com/hujianbest/graduation.secrets/blob/master/markdown/whatcostmetwoyears.md)
