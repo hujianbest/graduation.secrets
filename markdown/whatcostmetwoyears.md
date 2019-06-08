@@ -8,7 +8,11 @@
 + 《疯狂Java》
 + 《Python编程从入门到实践》
 
-因为老师的要求，还做了一个手机控制全彩灯的小玩具，用的Arduino开发板+ESP8266WIFI模块
+因为老师的要求，还做了一个手机控制全彩灯的小玩具，用的Arduino开发板+ESP8266WIFI模块，我还保留了它的[核心代码](https://github.com/hujianbest/graduation.secrets/blob/master/code/imcup.ino)和[说明书](https://github.com/hujianbest/graduation.secrets/blob/master/resources/lamp.pdf)   
+演示视频
+<video id="video" controls="" preload="none" poster="https://github.com/hujianbest/graduation.secrets/blob/master/image/lamp.png">
+<source id="mp4" src="https://github.com/hujianbest/graduation.secrets/blob/master/video/lamp.mp4" type="video/mp4">
+</video>
 ## 第二学期
 这一学期除了要应付老师的项目外，基本在集中学习软件开发的一些基本知识
 ## 第三学期
