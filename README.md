@@ -137,5 +137,5 @@ Cover Letter 的一般内容如下:
 
 ## 奖学金
 ## 竞赛
-## 求职
+## [求职经验](https://github.com/hujianbest/graduation.secrets/blob/master/markdown/getajob.md)
 ## [Java入门](https://github.com/hujianbest/Getting-started-with-Java-Web)
