@@ -42,6 +42,6 @@
 
 编程题就是要你用代码去求解某个问题   
 笔试题的练习可以在[赛码网](http://www.acmcoder.com/index)或者[牛客网](https://www.nowcoder.com/)   
-编程题的练习可以在[leetcode](https://leetcode.com/)或者[leetcode中国](https://leetcode-cn.com/),也可以在[赛码网](http://www.acmcoder.com/index)或者[牛客网](https://www.nowcoder.com/)上练习各公司的往年编程题。   
+编程题的练习可以在[leetcode](https://leetcode.com/)或者[leetcode中国](https://leetcode-cn.com/)，也可以在[赛码网](http://www.acmcoder.com/index)或者[牛客网](https://www.nowcoder.com/)上练习各公司的往年编程题。   
 建议在练习的时候，每周将做过的题整理一遍，写上注释，放在一个持续更新的Project或者Repository中，就像我的这个[Repository](https://github.com/hujianbest/LeetCode-Solved)。在真正网上笔试的时候，大部分编程题是可以切出来在本地IDE上编程的，如果这道题你做过或者做过类似的，完全可以去翻你曾经的代码，然后直接套用或做简单的修改，比你再码一遍快的太多。
 ## 面试
