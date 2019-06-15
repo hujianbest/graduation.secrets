@@ -138,7 +138,7 @@ Cover Letter 的一般内容如下:
 
 ## 奖学金
 ## 竞赛
-## [求职经验（Java开发）](https://github.com/hujianbest/graduation.secrets/blob/master/markdown/getajob.md)
+## 求职经验（Java开发）
 ### 时间节点
 + 对于我们专业的孩子来说，一般可以经历4次校招，分别是：
   + 实习（3月份开始）
@@ -193,7 +193,7 @@ Cover Letter 的一般内容如下:
 
 ###### 我将我之前面试准备的一些知识点罗列如下：
 1. Java基础
-1. 数据结构
+2. 数据结构
   + 队列
   + 链表
   + 数组
@@ -209,7 +209,7 @@ Cover Letter 的一般内容如下:
     + LSM树
   + Set
   + Map
-1. 算法
+3. 算法
   + 排序算法
     + 选择排序
     + 冒泡排序
@@ -231,7 +231,7 @@ Cover Letter 的一般内容如下:
   + 贪心算法
   + 回溯算法
   + 动态规划
-1. JVM
+4. JVM
   + JVM内存划分
   + JVM内存溢出
   + 垃圾回收
@@ -243,7 +243,7 @@ Cover Letter 的一般内容如下:
   + 类加载
     + 类的生命周期
     + 类加载器
-1. Java集合源码
+5. Java集合源码
   + Vector
   + ArrayList
   + LinkedList
@@ -252,7 +252,7 @@ Cover Letter 的一般内容如下:
   + HashSet
   + TreeMap
   + ConcurrentHashMap
-2. 数据库
+6. 数据库
   + 三大范式
   + 索引
   + 引擎
@@ -260,7 +260,7 @@ Cover Letter 的一般内容如下:
   + 隔离
   + 锁
   + 数据库性能优化
-3. 并发
+7. 并发
   + 并发的优缺点
   + 线程
     + 创建线程
@@ -313,18 +313,18 @@ Cover Letter 的一般内容如下:
     + wait/notifyAll实现
     + await/signalAll实现
     + BlockingQueue实现
-4. 设计模式
+8. 设计模式
   + 23种常见的设计模式
   + JDK中的设计模式
   + Spring中的设计模式
   + MyBatis中的设计模式
-7. Spring
+9. Spring
   + IOC
   + AOP
-5. 操作系统
+10. 操作系统
   + 进程、线程、协程
   + Linux命令行
-6. 网络
+11. 网络
   + OSI七层模型
   + TCP/IP
   + HTTP/HTTP2.0/HTTPS
@@ -451,7 +451,7 @@ Cover Letter 的一般内容如下:
 + [Java学习指南](https://github.com/Snailclimb/JavaGuide)
 + [Java进阶](https://github.com/doocs/advanced-java)
 
-## [Java后端入门](https://github.com/hujianbest/Getting-started-with-Java-Web)
+## Java后端入门
 ### 如何用[学校邮箱](http://mail.whut.edu.cn/)申请[IntelliJ IDEA](https://www.jetbrains.com/idea/)开发软件的正版授权
 1. [注册](https://account.jetbrains.com/login)JetBrains Account
 2. 根据验证邮件中的指引完成注册
