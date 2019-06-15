@@ -14,7 +14,7 @@
 + 导师职工号
 + 导师审核
 
-### 申请流程
+### 申请流程([学校的说明文件](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C%E6%9D%83%E7%99%BB%E8%AE%B0%E6%B5%81%E7%A8%8B%E5%9B%BE-%E7%BD%91%E4%B8%8A%E7%94%B3%E8%AF%B7.doc))
 1. 访问[中国版权保护中心](http://www.ccopyright.com.cn/)，完成注册登录
 2. 选择我要登记->计算机软件著作权登记申请->填写表格->打印表格
 3. 进入[学校知识产权管理系统](http://218.197.101.38/whlg-eip/platform/console/main.ht)，网址可能会有变更，入口为智慧理工大->专利软著管理系统
@@ -31,6 +31,7 @@
 ### 准备材料
 + 权利要求书   
 + 说明书   
+如何书写：学校提供的[撰写指南](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E4%B8%93%E5%88%A9%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%92%B0%E5%86%99%E6%8C%87%E5%8D%97-%E4%B8%93%E5%88%A9%E5%8A%9E.doc)，也可以参考我的，可以从我留在实验室的资料包中找到。   
 
 ### 需要
 + 导师职工号
@@ -39,18 +40,18 @@
 + 交钱
 
 
-### 申请流程
+### 申请流程([学校的说明文件](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%E5%9B%BE-%E7%BD%91%E4%B8%8A%E7%94%B3%E8%AF%B7.doc))
 1. 进入[学校知识产权管理系统](http://218.197.101.38/whlg-eip/platform/console/main.ht)，网址可能会有变更，入口为智慧理工大->专利软著管理系统
-+ 点击专利申请->填写表格->上传材料
-+ 请导师审核
-+ 等待后续审核
-+ 等专利代理人联系你
-+ 然后听代理人的
+2. 点击专利申请->填写表格->上传材料
+3. 请导师审核
+4. 等待后续审核
+5. 等专利代理人联系你
+6. 然后听代理人的
 
 ## 撰写小论文
 如果找不到方向，那就从别人的Future Work出发
 ### 参考资料
-+ 《SCI论文写作和发表：You Can Do It》   
++ 《SCI论文写作和发表：You Can Do It》(这本书我会留在实验室)   
 + [邱锡鹏老师-如何端到端地写科研论文？](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)   
 + [如何写一篇合格的NLP论文](https://mp.weixin.qq.com/s/kxqScCnihtuc-zbvzUtMeA)   
 + [科研新手写论文常犯的15个错误](https://mp.weixin.qq.com/s/wtJRA1c17Phnq3CYPT_XHA)   
