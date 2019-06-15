@@ -1,4 +1,4 @@
-# 求职经验（程序猿）
+# 求职经验（Java开发）
 ## 时间节点
 对于我们专业的孩子来说，一般可以经历4次求职，分别是：
 + 实习（3月份开始）
@@ -45,3 +45,262 @@
 编程题的练习可以在[leetcode](https://leetcode.com/)或者[leetcode中国](https://leetcode-cn.com/)，也可以在[赛码网](http://www.acmcoder.com/index)或者[牛客网](https://www.nowcoder.com/)上练习各公司的往年编程题。   
 建议在练习的时候，每周将做过的题整理一遍，写上注释，放在一个持续更新的Project或者Repository中，就像我的这个[Repository](https://github.com/hujianbest/LeetCode-Solved)。在真正网上笔试的时候，大部分编程题是可以切出来在本地IDE上编程的，如果这道题你做过或者做过类似的，完全可以去翻你曾经的代码，然后直接套用或做简单的修改，比你再码一遍快的太多。
 ## 面试
+在面试一家公司之前，我觉得至少要做这几项调研：
++ 该公司是干什么的。重资产还是轻资产，是卖产品的还是卖服务的
++ 你投递的这一岗位可能是干什么的
++ 该公司的主要技术结构。比如阿里就是Java，腾讯C++，百度PHP，当然这是主要的技术结构，一家大型公司涉及的开发语言多达十几种，但总有一两个是主要的，而从事该语言开发的员工也是最多的，也就是说，需求这类职位比较多，同时你的面试官从事这个方向的概率比较高。就国内而言，整体来说，搞游戏的大部分是C++，卖嵌入式产品的C和C++，卖嵌入式产品和服务的C、C++和Java，互联网公司Java或者C++再加上前端，卖手机的C++、Java、Android、前端，等等。
++ 几轮面试，每轮面什么。就我个人经历来说，一般的邀请到酒店大堂面试的，就两轮，一天搞定，第一轮技术面，过了就第二轮HR面或者第二轮是主管技术面，算是比较轻松的，过或者凉都很快。还有一类公司是一天只面一面，在面试官酒店房间一对一，完了让你回去等二面通知，这类一般3面以上，一面考你编程语言和算法基础，二面考你综合基础知识和项目经历，3面才HR或者主管面。   
+
+我将我之前面试准备的一些知识点罗列如下：
+1. Java基础
+1. 数据结构
+  + 队列
+  + 链表
+  + 数组
+  + 栈
+  + 堆
+  + 树
+    + 二叉树
+    + 完全二叉树
+    + 平衡二叉树
+    + 二叉查找树
+    + 红黑树
+    + B-，B+，B*树
+    + LSM树
+  + Set
+  + Map
+1. 算法
+  + 排序算法
+    + 选择排序
+    + 冒泡排序
+    + 插入排序
+    + 快速排序
+    + 归并排序
+    + 希尔排序
+    + 堆排序
+    + 计数排序
+    + 桶排序
+    + 基数排序
+  + 查找算法
+    + 二分查找
+  + 字符串比较
+    + KMP算法
+  + 布隆过滤器
+  + 深度优先
+  + 广度优先
+  + 贪心算法
+  + 回溯算法
+  + 动态规划
+1. JVM
+  + JVM内存划分
+  + JVM内存溢出
+  + 垃圾回收
+    + 如何判断对象已死
+    + 回收算法
+    + 垃圾收集器
+    + 回收过程
+  + JVM性能优化
+  + 类加载
+    + 类的生命周期
+    + 类加载器
+1. Java集合源码
+  + Vector
+  + ArrayList
+  + LinkedList
+  + HashMap
+  + Hashtable
+  + HashSet
+  + TreeMap
+  + ConcurrentHashMap
+2. 数据库
+  + 三大范式
+  + 索引
+  + 引擎
+  + 事务
+  + 隔离
+  + 锁
+  + 数据库性能优化
+3. 并发
+  + 并发的优缺点
+  + 线程
+    + 创建线程
+    + 线程状态切换
+    + 线程的基本操作
+    + 守护线程
+    + 什么是线程安全
+  + 锁
+    + 公平锁&非公平锁
+    + 悲观锁&乐观锁
+    + 可重入锁&不可重入锁
+    + 互斥锁&共享锁
+    + 死锁
+      + 产生死锁的四个必要条件
+      + 预防和解除
+      + 构建死锁
+      + 查看死锁
+  + 并发理论
+    + JMM内存模型
+    + 重排序
+    + happens-before原则
+  + 并发关键字
+    + synchronized
+    + volatile
+    + final
+    + 原子性、可见性、有序性
+  + Lock体系
+    + Lock与Synchronized比较
+    + AQS
+    + AQS源码解析
+    + ReentrantLock
+    + ReentrantReadWriteLock
+    + Condition机制
+    + LockSupport
+  + 并发容器
+    + ConcurrentHashMap
+    + CopyOnWriteArrayList
+    + BlockingQueue
+    + ConcurrentLinkedQueue
+  + 线程池
+    + ThreadPoolExecutor
+    + ScheduledThreadPoolExecutor
+  + 原子操作类
+  + 并发工具
+    + CountDownLatch
+    + CyclicBarrier
+    + Semaphore
+    + Exchanger
+  + 并发实战：生产-消费者问题
+    + wait/notifyAll实现
+    + await/signalAll实现
+    + BlockingQueue实现
+4. 设计模式
+  + 23种常见的设计模式
+  + JDK中的设计模式
+  + Spring中的设计模式
+  + MyBatis中的设计模式
+7. Spring
+  + IOC
+  + AOP
+5. 操作系统
+  + 进程、线程、协程
+  + Linux命令行
+6. 网络
+  + OSI七层模型
+  + TCP/IP
+  + HTTP/HTTP2.0/HTTPS
+  + 长连接、短连接
+  + 网络模型
+    + Epoll
+    + Java NIO
+  + Netty
+
+我将我之前面试准备的面试题目记录如下(我照着记录抄的，后续归类)：
+1. 什么是二叉树
+1. B树与B+树
+1. TCP三次握手、四次挥手的过程
+1. 类加载器有哪些
+1. JVM垃圾回收算法
+1. 垃圾收集器
+1. HTTP请求和响应内容
+1. 线程创建方式
+1. HashMap和ConcurrentHashMap的实现原理
+1. TCP/IP协议簇有哪些常见协议
+1. Java线程池的核心属性以及处理流程
+1. Java并发包原理
+1. 线程的生命周期
+1. JVM类加载机制
+1. JVM内存模型
+1. 数据库有哪些索引，索引原理
+1. JVM内存溢出有哪些
+1. Java8有哪些新特性
+1. HTTP请求的GET和POST分别是什么
+1. Session、Cookie、Token的区别
+1. HashMap工作原理及代码实现，什么时候用到红黑树
+1. ConcurrentHashMap工作原理及代码实现，如何统计所有元素个数
+1. 线程和进有哪些程的概念
+1. 并行和并发的概念
+1. 进程间通信方式
+1. Semaphore原理
+1. Exchanger原理
+1. ThreadLocal原理，为什么会出现OOM，出现的深层次原因
+1. 线程池实现原理
+1. 线程池的几种实现方式
+1. 如何保证线程安全
+1. 重入锁的概念，重入锁为什么可以防止死锁
+1. 产生死锁的四个条件
+1. Volatile实现原理
+1. synchronized实现原理
+1. synchronized与lock区别
+1. CAS无锁的概念
+1. 乐观锁和悲观锁
+1. 什么是ABA问题
+1. 偏向锁、轻量级锁、重量级锁、自旋锁的概念
+1. JVM OOM和SOE的示例及原因，如何排查与解决
+1. 如何判断对象是否可以回收
+1. 类加载器、双亲委派模型、类的生命周期、类如何加载到JVM中
+1. JVM内存模型
+1. 常见设计模式
+1. 设计模式六大原则
+1. 红黑树
+1. 一致性Hash原理，Hash环问题
+1. BIO、NIO、AIO的概念
+1. 长连接与短连接
+1. HTTP/HTTP2.0/HTTPS的区别
+1. 从浏览器地址栏输入URL到页面加载之间发生了什么
+1. DDL/DML/DCL分别指什么
+1. 数据库事务的ACID
+1. 事务隔离级别
+1. InnoDB与MyISAM的区别
+1. 数据库索引类别
+1. 什么是自适应哈希
+1. 聚集索引与非聚集索引的区别
+1. 为什么使用B+树作为MySQL的索引
+1. Servlet生命周期
+1. Spring Bean生命周期
+1. Spring IOC如何实现
+1. Spring AOP如何实现
+1. Spring事务
+1. Spring MVC
+1. Tomcat基础架构
+1. Hash冲突解决办法
+1. ArrayList和LinkedList的默认空间是多少
+1. Object的Hashcode
+1. Collections与Arrays的sort方法默认的排序方法是啥
+1. 浅拷贝与深拷贝
+1. Java反射的作用与实现原理
+1. Java中的回调机制
+1. synchronized与ReentrantLock哪个是公平锁
+1. CAS机制会出现什么问题
+1. 一个线程调用start两次会出现什么情况
+1. Minor GC与Full GC分别在什么时候发生
+1. 垃圾收集器各自的特点
+1. Java在什么时候会出现内存泄露
+1. 自己写的类被什么类加载器加载，什么时候加载
+1. 软引用和弱引用
+1. 数据库四大范式
+1. 数据库死锁如何解决
+1. MySQL如何实现并发
+1. 内存的页面置换算法
+1. 进程调度算法
+1. TCP为什么可靠
+1. List与Set的区别
+1. List与Map的区别
+1. ArrayList与LinkedList的区别
+1. ArrayList与Vector的区别
+1. HashMap与Hashtable的区别
+1. HashMap与HashSet的区别
+1. 多线程情况下HashMap为什么会出现死循环问题
+1. 线程的状态是如何转移的
+1. AQS同步队列
+1. 常见原子操作类有哪些
+1. 乐观锁的业务场景及实现方式
+1. 什么是动态代理
+1. 最大堆与最小堆
+1. 单例模式的实现方法，Spring中单例的实现原理
+1. TCP与UDP的区别
+1. 使用线程池的好处
+1. Object类有哪些方法
+1. 数据库简历索引的优缺点
+1. HashMap如何扩容
+1. 大量数据去重问题
+1. 写SQL
