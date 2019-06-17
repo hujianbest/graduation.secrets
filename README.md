@@ -2,7 +2,7 @@
 
 |&nbsp;绪论&nbsp;| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|求职经验| Java后端入门 | &nbsp;后记&nbsp; |
 | :---: | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:clipboard:](#clipboard撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验java开发) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
+| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:pencil:](#penci撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验java开发) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
 
 <br>
 
@@ -61,7 +61,7 @@
 5. 等专利代理人联系你
 6. 然后听代理人的
 
-## :clipboard:撰写小论文
+## :pencil:撰写小论文
 如果找不到方向，那就从别人的Future Work出发
 ### 参考资料
 + 《SCI论文写作和发表：You Can Do It》(这本书我会留在实验室)   
@@ -518,7 +518,8 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 5. 将`id_rsa_pub`中的内容复制到[Github SSH Key](https://github.com/settings/keys)中， 添加， 可使用下述命令验证   
 `$ ssh -T git@github.com`
 6. 在Github中创建一个repository, 即Github远程仓库
-7. 在本地Git中添加远程仓库   
+7. 初始化本地仓库并在本地Git中添加远程仓库   
+`$ git init`   
 `$ git remote add origin git@github.com:xxx.git //github repository 的地址`
 8. 然后即可使用`git push`命令将本地代码推动到远程仓库了   
 `$ git push -u origin master //第一次推送需指明远程仓库的别名和分支`   
