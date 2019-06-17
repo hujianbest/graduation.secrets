@@ -1,12 +1,12 @@
 # graduation.secrets
 
-| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|         求职经验| Java后端入门 | &nbsp;后记&nbsp; |
+| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|求职经验| Java后端入门 | &nbsp;后记&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:cake:](#cake-提交软件著作权) | [:apple:](#apple-提交发明专利) | [:clipboard:](#clipboard-撰写小论文) | [:mortar_board:](#mortar_board-撰写毕业论文) | [:moneybag:](#moneybag-奖学金) |[:racehorse:](#racehorse-竞赛)| [:pray:](#pray-求职经验（Java开发）) |[:coffee:](#coffee-Java后端入门)|[:memo:](#memo-后记)|
 
 ## How to graduate from Lab-2000
 希望前人走过的弯路，后人就不必再走
-## 提交软件著作权
+## cake-提交软件著作权
 
 ### 准备材料
 + 源代码   
@@ -30,7 +30,7 @@
 8. 将申请表、源代码、说明书、学校法人那啥、自己身份证复印件，一同寄给中国版权保护中心
 9. 等待受理
 
-## 提交发明专利
+## apple-提交发明专利
 
 
 ### 准备材料
@@ -53,7 +53,7 @@
 5. 等专利代理人联系你
 6. 然后听代理人的
 
-## 撰写小论文
+## clipboard-撰写小论文
 如果找不到方向，那就从别人的Future Work出发
 ### 参考资料
 + 《SCI论文写作和发表：You Can Do It》(这本书我会留在实验室)   
@@ -139,11 +139,11 @@ Cover Letter 的一般内容如下:
 + 第三段：你的文章为什么符合期刊的发表要求，读者凭什么为你的文章买单
 + 最后一段：套话，文章没发表过，作者都同意等等
 
-## 撰写毕业论文
+## mortar_board-撰写毕业论文
 
-## 奖学金
-## 竞赛
-## 求职经验（Java开发）
+## #moneybag-奖学金
+## racehorse-竞赛
+## pray-求职经验（Java开发）
 ### 时间节点
 + 对于我们专业的孩子来说，一般可以经历4次校招，分别是：
   + 实习（3月份开始）
@@ -456,7 +456,7 @@ Cover Letter 的一般内容如下:
 + [Java学习指南](https://github.com/Snailclimb/JavaGuide)
 + [Java进阶](https://github.com/doocs/advanced-java)
 
-## Java后端入门
+## coffee-Java后端入门
 ### 如何用[学校邮箱](http://mail.whut.edu.cn/)申请[IntelliJ IDEA](https://www.jetbrains.com/idea/)开发软件的正版授权
 1. [注册](https://account.jetbrains.com/login)JetBrains Account
 2. 根据验证邮件中的指引完成注册
@@ -611,4 +611,4 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 2. 代码整洁之道
 3. 看源码去体会设计思想
 
-## 后记
+## memo-后记
