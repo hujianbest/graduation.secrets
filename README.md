@@ -4,7 +4,7 @@
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:clipboard:](#clipboard撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验（Java开发）) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
 
-## How to graduate from Lab-2000
+## :full_moon_with_face:How to graduate from Lab-2000
 希望前人走过的弯路，后人就不必再走
 ## :cake:提交软件著作权
 
