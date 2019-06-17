@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="image/logo.png" width="200px">
+    <img src="image/logo.gif" width="200px">
 </div>
 
 <br>
