@@ -2,7 +2,7 @@
 
 |&nbsp;绪论&nbsp;| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|求职经验| Java后端入门 | &nbsp;后记&nbsp; |
 | :---: | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:pencil:](#penci撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验java开发) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
+| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:pencil:](#penci撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验java开发) |[:coffee:](#coffeeJava后端入门)|[:clipboard:](#clipboard后记)|
 
 <br>
 
@@ -649,4 +649,4 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 2. 代码整洁之道
 3. 看源码去体会设计思想
 
-## :memo:后记
+## :clipboard:后记
