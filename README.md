@@ -2,7 +2,7 @@
 
 |&nbsp;绪论&nbsp;| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|求职经验| Java后端入门 | &nbsp;后记&nbsp; |
 | :---: | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:clipboard:](#clipboard撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验（Java开发）) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
+| [:pill:](#pillhow-to-graduate-from-lab-2000) | [:cake:](#cake提交软件著作权) | [:apple:](#apple提交发明专利) | [:clipboard:](#clipboard撰写小论文) | [:mortar_board:](#mortar_board撰写毕业论文) | [:moneybag:](#moneybag奖学金) |[:racehorse:](#racehorse竞赛)| [:pray:](#pray求职经验java开发) |[:coffee:](#coffeeJava后端入门)|[:memo:](#memo后记)|
 
 ## :pill:How to graduate from Lab-2000
 希望前人走过的弯路，后人就不必再走
