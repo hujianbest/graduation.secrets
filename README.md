@@ -1,4 +1,9 @@
 # graduation.secrets
+
+| &nbsp;软著&nbsp; | &nbsp;专利&nbsp; | &nbsp;小论文&nbsp;|&nbsp;大论文&nbsp;| &nbsp;奖学金&nbsp;|&nbsp;竞赛&nbsp;|         求职经验| Java后端入门 | &nbsp;后记&nbsp; |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [:cake:](#cake-提交软件著作权) | [:apple:](#apple-提交发明专利) | [:clipboard:](#clipboard-撰写小论文) | [:mortar_board:](#mortar_board-撰写毕业论文) | [:moneybag:](#moneybag-奖学金) |[:racehorse:](#racehorse-竞赛)| [:pray:](#pray-求职经验（Java开发）) |[:coffee:](#coffee-Java后端入门)|[:memo:](#memo-后记)|
+
 ## How to graduate from Lab-2000
 希望前人走过的弯路，后人就不必再走
 ## 提交软件著作权
@@ -605,3 +610,5 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 1. 设计模式
 2. 代码整洁之道
 3. 看源码去体会设计思想
+
+## 后记
