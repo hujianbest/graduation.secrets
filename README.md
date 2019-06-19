@@ -190,9 +190,8 @@ Cover Letter 的一般内容如下:
     + [中兴](https://company.dajie.com/zte)
     + 等等，这类有很多
 + 国家教育部类
-    + [校文件]()
-+ 社区
-    +
+    + [校文件](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E9%99%84%E4%BB%B61%EF%BC%9A%E3%80%8A%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%AB%9E%E8%B5%9B%E8%AE%A4%E5%AE%9A%E6%B8%85%E5%8D%95%E3%80%8B.xlsx)
+
 ## :pray:求职经验（Java开发）
 ### 时间节点
 + 对于我们专业的孩子来说，一般可以经历4次校招，分别是：
