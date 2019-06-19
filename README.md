@@ -180,6 +180,19 @@ Cover Letter 的一般内容如下:
 
 ## :moneybag:奖学金
 ## :racehorse:竞赛
++ 竞赛平台
+    + [阿里天池](https://tianchi.aliyun.com/home/)
+    + [Kaggle](https://www.kaggle.com/)
++ 各公司为招聘举办的比赛
+    + [华为挑战赛](https://codecraft.huawei.com/)
+    + [华为网络精英](http://ntec.huaweils.com/)
+    + [腾讯广告算法大赛](https://algo.qq.com/)
+    + [中兴](https://company.dajie.com/zte)
+    + 等等，这类有很多
++ 国家教育部类
+    + [校文件]()
++ 社区
+    +
 ## :pray:求职经验（Java开发）
 ### 时间节点
 + 对于我们专业的孩子来说，一般可以经历4次校招，分别是：
