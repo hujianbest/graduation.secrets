@@ -14,6 +14,9 @@
 
 ## :pill:How to graduate from Lab-2000
 希望前人走过的弯路，后人就不必再走
++ Figure out the basic conditions for graduation
++ Try to publish an ESI and show your attitude(be a licking dog)
++ Take time to write your graduation thesis and carefully draw each picture
 ## :cake:提交软件著作权
 
 ### 准备材料
