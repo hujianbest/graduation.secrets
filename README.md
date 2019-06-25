@@ -179,7 +179,7 @@ Cover Letter 的一般内容如下:
 ### 参考资料
 + [Word格式模板(.dot文件)](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E6%A8%A1%E6%9D%BF.dot)
 + [学位论文统一要求（初稿）](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E7%BB%9F%E4%B8%80%E8%A6%81%E6%B1%82%EF%BC%88%E5%88%9D%E7%A8%BF%EF%BC%89.docx)
-+ [毕业论文格式要求2017刘院长](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E8%A6%81%E6%B1%822017%E5%88%98%E9%99%A2%E9%95%BF.docx)
++ [毕业论文格式要求2017](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E8%A6%81%E6%B1%822017%E5%88%98%E9%99%A2%E9%95%BF.docx)
 
 ## :moneybag:奖学金
 学业奖学金如何获得分数加成：
