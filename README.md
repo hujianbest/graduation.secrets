@@ -17,18 +17,21 @@
 + Figure out the basic conditions for graduation
 + Try to publish an ESI and show your attitude(be a licking dog)
 + Take time to write your graduation thesis and carefully draw each picture
+
 ## :cake:提交软件著作权
 
 ### 准备材料
 + 源代码   
 要求：代码量按前、后各连续30页，共60页（不足60页全部提交），第60页为模块结束页，每页不少于50行，行数包含注释，不包含空行。
 + 使用说明书   
-要求：不少于多少页，忘了，自行百度
+要求：不少于15页好像
++ 我准备的材料在申请时顺利通过，可参考我留在实验室的资料包
 
 
 ### 需要
 + 导师职工号
 + 导师审核
++ 自行邮寄
 
 ### 申请流程([学校的说明文件](https://github.com/hujianbest/graduation.secrets/blob/master/resources/%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C%E6%9D%83%E7%99%BB%E8%AE%B0%E6%B5%81%E7%A8%8B%E5%9B%BE-%E7%BD%91%E4%B8%8A%E7%94%B3%E8%AF%B7.doc))
 1. 访问[中国版权保护中心](http://www.ccopyright.com.cn/)，完成注册登录
@@ -37,9 +40,16 @@
 4. 点击软著申请->填写表格->上传申请表和软著材料
 5. 请导师审核
 6. 等待后续审核
-7. 审核完成后从系统上打印一个表去西院飞马广场那里盖章(记不清是什么表了，再领个学校法人什么的纸)
+7. 审核完成后从系统上下载一个用印表并打印去西院飞马广场那里盖章，盖章的时候再领个学校法人什么的纸
 8. 将申请表、源代码、说明书、学校法人那啥、自己身份证复印件，一同寄给中国版权保护中心
 9. 等待受理
+
+### 耗时
++ 我是3.6在校系统申请，完成邮寄后，3.26受理登记（受理即达到毕业要求了，这中间是很快的，所以不要慌）
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/ruanzhutime.png)
++ 如果你有代码的话，书写这玩意儿半天-2天（没有的话听说团购价800包全套)
++ 受理到发证要一个多月，采用挂号信邮寄，比较慢
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/ruanzhuzhengshu.png)
 
 ## :apple:提交发明专利
 
@@ -63,6 +73,13 @@
 4. 等待后续审核
 5. 等专利代理人联系你
 6. 然后听代理人的
+
+### 耗时
++ 校系统提交到代理预计2周，其中1周可能花在那谁身上，也可能是n周，我就花了一个多月
++ 配合代理书写专利2天
++ 代理提交后到受理2天（受理就可以了）（总体来说挺快的，关键时候可以保命，也可以用来前期混分）
+![](https://github.com/hujianbest/graduation.secrets/blob/master/image/zhuanli.png)
++ 受理到授权3年（咱们这只让提交发明专利）
 
 ## :pencil:撰写小论文
 如果找不到方向，那就从别人的Future Work出发
